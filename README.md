@@ -1,6 +1,6 @@
 # I'm Miro
 
-Platform Engineer focused on cloud infrastructure, Kubernetes, and automation.
+Devpops/Platform Engineer focused on cloud infrastructure, Kubernetes, and automation.
 If there's a way to do it with code and a terminal, that's how it gets done.
 
 ## Stack
