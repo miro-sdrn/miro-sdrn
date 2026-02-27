@@ -1,4 +1,4 @@
-# Hey, I'm Miro
+# I'm Miro
 
 Platform Engineer focused on cloud infrastructure, Kubernetes, and automation.
 If there's a way to do it with code and a terminal, that's how it gets done.
@@ -15,8 +15,6 @@ Kubernetes · AWS · Terraform · Python · Linux · AI/MLOps
 - Exploring AI/MLOps infrastructure
 
 ## Featured
-
-- [job-application](https://github.com/miro-sdrn/job-application) — Terraform IaC demo showcasing senior DevOps skills
 
 ## GitHub Stats
 
