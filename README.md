@@ -18,4 +18,3 @@ Kubernetes · AWS · Terraform · Python · Linux · AI/MLOps
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=miro-sdrn&show_icons=true&theme=dark&hide_border=true)
