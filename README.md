@@ -1,6 +1,6 @@
 # I'm Miro
 
-Devops/Platform Engineer focused on cloud infrastructure, Kubernetes, and automation.
+Devops Engineer focused on cloud infrastructure, Kubernetes, and automation.
 If there's a way to do it with code and a terminal, that's how it gets done.
 
 Infrastructure is my craft. 
